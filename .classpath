@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/Desktop/Hadoop Class/HIVE-JARS/HIVE-JARS/hadoop-common-0.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/Desktop/Hadoop Class/HIVE-JARS/HIVE-JARS/hive-exec-0.7.1-cdh3u5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gaurav/Desktop/Hadoop Class/HIVE-JARS/HIVE-JARS/hive-serde-0.7.1-cdh3u5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
